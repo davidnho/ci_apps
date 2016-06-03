@@ -1,0 +1,39 @@
+body {
+  background : url(../img/bg.jpg);
+}
+
+.jumbotron
+{
+	/*background-image:url(../img/banner-0.jpg); /*<- don't delete. for future needs*/ 
+}
+
+/*
+.navbar .navbar-inverse 
+{
+	background-color : #C3D93F;
+	color: #C3D93F;
+}
+*/
+.navbar-default 
+{
+	background-color: #C3D93F;
+	border-color: #C3D93F;
+}
+
+.nav_button:hover
+{
+	background-color: #000000;
+	border-color: #000000;
+	font-color: white;
+}
+
+.nav_button:active
+{
+	background-color: #000000;
+	border-color: #000000;
+}
+.cdata_message
+{
+	font-size : 20px;
+}
+
